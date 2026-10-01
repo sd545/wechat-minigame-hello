@@ -1,0 +1,12 @@
+{
+  "description": "我的第一个微信小游戏",
+  "setting": {
+    "es6": true,
+    "minified": true,
+    "urlCheck": false
+  },
+  "compileType": "game",
+  "libVersion": "latest",
+  "appid": "touristappid",
+  "projectname": "wechat-minigame-hello"
+}
